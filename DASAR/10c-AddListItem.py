@@ -51,3 +51,13 @@ students = ["ibnu", "putri"]
 newStudents = ("jhon")
 students.append(newStudents)
 print(students) # ['ibnu', 'putri', 'jhon']
+
+
+"""
+RINGKASAN"
+---------
+1. append() untuk menambahkan item baru pada list
+2. insert(posisi, item) untuk menambahkan item baru dengan posisi yang spesifik
+3. extend() untuk menambahkan elememn baru dari list
+
+"""
